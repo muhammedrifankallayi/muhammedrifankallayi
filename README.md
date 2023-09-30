@@ -1,6 +1,6 @@
 
-<img height="400"  align="left" alt="Coding" src="https://github.com/muhammedrifankallayi/Rifaan/blob/main/riffaann.jpg" >
-<img height="400"  align="left" alt="Coding" src="https://github.com/muhammedrifankallayi/Rifaan/blob/main/riffaann.jpg" >
+<img height="400" width=1000 align="left" alt="Coding" src="https://github.com/muhammedrifankallayi/Rifaan/blob/main/riffaann.jpg" >
+
 <h1 align="center">Hi 👋, I'm Muhammed Rifan</h1>
 <h3 align="center">An enthusiastic full-stack developer specializing in Angular</h3>
 <img  align="right" alt="Coding" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" >

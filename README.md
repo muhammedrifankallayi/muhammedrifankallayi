@@ -1,5 +1,5 @@
 
-<img height="400" width=1000 align="left" alt="Coding" src="https://github.com/muhammedrifankallayi/Rifaan/blob/main/riffaann.jpg" >
+<img  align="center" alt="Coding" src="https://github.com/muhammedrifankallayi/Rifaan/blob/main/riiff.jpg" >
 
 <h1 align="center">Hi 👋, I'm Muhammed Rifan</h1>
 <h3 align="center">An enthusiastic full-stack developer specializing in Angular</h3>

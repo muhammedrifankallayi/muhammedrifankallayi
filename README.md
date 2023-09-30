@@ -1,3 +1,5 @@
+
+<img height="550"  align="center" alt="Coding" src="https://github.com/muhammedrifankallayi/Rifaan/blob/main/WhatsApp%20Image%202023-09-30%20at%2020.38.04_0ecf34f0.jpg" >
 <h1 align="center">Hi 👋, I'm Muhammed Rifan</h1>
 <h3 align="center">An enthusiastic full-stack developer specializing in Angular</h3>
 <img  align="right" alt="Coding" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" >

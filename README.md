@@ -35,20 +35,20 @@
  * Represents me.
  *
  * @constructor
- * @param {string} location - Gondia, Maharashtra, India.
- * @param {string} languagues - English, Hindi, Marathi.
+ * @param {string} location - Malappuram, Kerala, India.
+ * @param {string} languagues - English, Malayalam, German (dutch) .
  * @param {string} jobTitle - Software Engineer.
- * @param {string} specialization - Building full-fledged Backend systems and iOS applications.
+ * @param {string} specialization - Building full-Web Apps and Androind, IOS applications.
  * @param {string} interests - AI, Distributed Systems & problem-solving.
- * @param {string} hobbies - Trekking, Reading, gaming & playing music.
- * @param {string} education - BTech Computer Engineering, Viswakarma Institute of Technology, Pune.
+ * @param {string} hobbies - Trekking, Adventures, gaming & Researches , music.
+ * @param {string} education - BCA Pursuing, 2nd year at Indira Gandhi National Open University.
  * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
  * @param {string} stength - Resolute.
  * @param {string} weakness - Shyness.
  *
  * @throws {Punch} To any and all bugs.
  *
- * @returns {Object} Kartik.
+ * @returns {Object} Rifan.
  */
 ```
 

@@ -1,8 +1,8 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=0&pause=0&color=FFFFFF&center=true&vCenter=true&repeat=false&width=640&height=64&lines=MUHAMMED+RIFAN+K" />
-
-<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3500&pause=900&color=777777&center=true&vCenter=true&width=680&lines=MEAN+Stack+Developer;AI+%26+RAG+Systems+Engineer;Flutter+%7C+React+%7C+.NET+%7C+Java;VPS+Hosting+%26+Cloud+Infrastructure;3+Years+in+Production+Development](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2RoJwAKMwaYYjod7H7yKtLmG5cmFxOKP99Q&s)" />
+ 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3500&pause=900&color=777777&center=true&vCenter=true&width=680&lines=MEAN+Stack+Developer;AI+%26+RAG+Systems+Engineer;Flutter+%7C+React+%7C+.NET+%7C+Java;VPS+Hosting+%26+Cloud+Infrastructure;3+Years+in+Production+Development" />
 
 <br/>
 

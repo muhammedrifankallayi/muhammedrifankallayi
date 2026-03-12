@@ -31,9 +31,9 @@
 
 ```typescript
 const rifan = {
-  name        : "Muhammed Rifan K",
-  title       : "Full-Stack Developer  —  AI Integration Engineer",
-  location    : "Malappuram, Kerala, India",
+  name: "Muhammed Rifan K",
+  title : "Full-Stack Developer  —  AI Integration Engineer",
+  location : "Malappuram, Kerala, India",
   experience  : "3 Years in Production Development",
   education   : "BCA — Indira Gandhi National Open University",
   core_stack  : ["MEAN", "React", "Flutter", ".NET", "Java"],

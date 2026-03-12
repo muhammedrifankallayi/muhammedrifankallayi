@@ -29,18 +29,40 @@
 
 ---
 
+<div align="center">
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="left" style="padding: 0;">
 ```typescript
+/**
+ * ─────────────────────────────────────────
+ *   MUHAMMED RIFAN K  ·  Software Engineer
+ * ─────────────────────────────────────────
+ */
 const rifan = {
-  name: "Muhammed Rifan K",
-  title : "Full-Stack Developer  —  AI Integration Engineer",
-  location : "Malappuram, Kerala, India",
-  experience  : "3 Years in Production Development",
+  name        : "Muhammed Rifan K",
+  title       : "Full-Stack Developer  —  AI Integration Engineer",
+  location    : "Malappuram, Kerala, India",
+  experience  : "3 Years · Production-Grade Development",
   education   : "BCA — Indira Gandhi National Open University",
-  core_stack  : ["MEAN", "React", "Flutter", ".NET", "Java"],
-  specialisms : ["AI Integrations", "RAG Systems", "VPS Hosting", "Cloud Architecture"],
+
+  core_stack  : ["MongoDB", "Express", "Angular", "Node.js",
+                 "React", "Flutter", ".NET", "Java"],
+
+  specialisms : ["AI Integrations", "RAG Systems",
+                 "VPS Hosting",    "Cloud Architecture"],
+
   contact     : "rifanrifan55544@gmail.com",
+  status      : "Open to collaborate  ✦  Available for freelance",
 };
 ```
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <br/>
 

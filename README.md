@@ -35,13 +35,7 @@
 <tr>
 <td align="left" style="padding: 0;">
 
-/**
- * ─────────────────────────────────────────
- *   MUHAMMED RIFAN K  ·  Software Engineer
- * ─────────────────────────────────────────
-
- */
- ```
+```
 const rifan = {
   name        : "Muhammed Rifan K",
   title       : "Full-Stack Developer  —  AI Integration Engineer",

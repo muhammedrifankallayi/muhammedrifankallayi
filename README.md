@@ -1,10 +1,22 @@
 <div align="center">
 
-<img  style="border-radius: 12px;"  height="250px" width="250px"  src="https://i.guim.co.uk/img/media/f564626dd89112600f316e3565aa5fa46af97963/2206_684_2331_1865/master/2331.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=05c62e59510f6da9c9706d66df94fde2" />
- 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3500&pause=900&color=777777&center=true&vCenter=true&width=680&lines=MEAN+Stack+Developer;AI+%26+RAG+Systems+Engineer;Flutter+%7C+React+%7C+.NET+%7C+Java;VPS+Hosting+%26+Cloud+Infrastructure;3+Years+in+Production+Development" />
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="220" valign="middle" align="center">
+
+<img height="200px" width="200px" style="border-radius: 50%;" src="YOUR_IMAGE_URL" />
+
+</td>
+<td width="30"></td>
+<td valign="middle" align="left">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=0&pause=0&color=FFFFFF&center=false&vCenter=true&repeat=false&width=500&height=50&lines=MUHAMMED+RIFAN+K" />
 
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3500&pause=900&color=777777&center=false&vCenter=true&width=500&lines=MEAN+Stack+Developer;AI+%26+RAG+Systems+Engineer;Flutter+%7C+React+%7C+.NET+%7C+Java;VPS+Hosting+%26+Cloud+Infrastructure;3+Years+in+Production+Development" />
+
+<br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=safari&logoColor=white)](https://muhammedrifankallayi.github.io/Rifaan/index.html)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-rifan-k-638074257)&nbsp;
@@ -12,7 +24,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rifanrifan55544@gmail.com)&nbsp;
 ![Views](https://komarev.com/ghpvc/?username=muhammedrifankallayi&style=flat-square&color=444444&label=VIEWS)
 
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 

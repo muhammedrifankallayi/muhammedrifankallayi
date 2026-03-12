@@ -10,7 +10,7 @@
 <td width="30"></td>
 <td valign="middle" align="left">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=0&pause=0&color=FFFFFF&center=false&vCenter=true&repeat=false&width=500&height=50&lines=MUHAMMED+RIFAN+K" />
+<img src="https://i.guim.co.uk/img/media/f564626dd89112600f316e3565aa5fa46af97963/2206_684_2331_1865/master/2331.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=05c62e59510f6da9c9706d66df94fde2" />
 
 <br/>
 

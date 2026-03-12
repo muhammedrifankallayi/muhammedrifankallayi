@@ -1,6 +1,6 @@
 <div align="center">
 
-<img   height="50px" width="50px"  src="https://i.guim.co.uk/img/media/f564626dd89112600f316e3565aa5fa46af97963/2206_684_2331_1865/master/2331.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=05c62e59510f6da9c9706d66df94fde2" />
+<img   height="150px" width="150px"  src="https://i.guim.co.uk/img/media/f564626dd89112600f316e3565aa5fa46af97963/2206_684_2331_1865/master/2331.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=05c62e59510f6da9c9706d66df94fde2" />
  
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3500&pause=900&color=777777&center=true&vCenter=true&width=680&lines=MEAN+Stack+Developer;AI+%26+RAG+Systems+Engineer;Flutter+%7C+React+%7C+.NET+%7C+Java;VPS+Hosting+%26+Cloud+Infrastructure;3+Years+in+Production+Development" />
 

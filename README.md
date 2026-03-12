@@ -34,12 +34,14 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
 <td align="left" style="padding: 0;">
-```typescript
+
 /**
  * ─────────────────────────────────────────
  *   MUHAMMED RIFAN K  ·  Software Engineer
  * ─────────────────────────────────────────
+
  */
+ ```
 const rifan = {
   name        : "Muhammed Rifan K",
   title       : "Full-Stack Developer  —  AI Integration Engineer",
@@ -57,6 +59,8 @@ const rifan = {
   status      : "Open to collaborate  ✦  Available for freelance",
 };
 
+```
+
 
 </td>
 </tr>
@@ -67,6 +71,7 @@ const rifan = {
 <br/>
 
 ---
+
 
 ## Tech Stack
 

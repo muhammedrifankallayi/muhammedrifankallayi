@@ -56,7 +56,7 @@ const rifan = {
   contact     : "rifanrifan55544@gmail.com",
   status      : "Open to collaborate  ✦  Available for freelance",
 };
-```
+
 
 </td>
 </tr>
